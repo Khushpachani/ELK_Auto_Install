@@ -86,8 +86,10 @@ These are the recommended resources for running Elastic Stack 9.x:
 
 ```bash
 sudo su
-chmod +x elk-auto-installer.sh
-./elk-auto-installer.sh
+git clone https://github.com/Khushpachani/ELK_Auto_Install.git
+cd ELK_AUTO_Install
+chmod +x ELK_Automation.sh
+./ELK_Automation.sh
 ```
 <img width="1780" height="1786" alt="image" src="https://github.com/user-attachments/assets/2676f8ec-0f26-4e5e-9b08-22940dad7f18" />
 
